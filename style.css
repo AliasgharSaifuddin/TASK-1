@@ -1,0 +1,22 @@
+ h1,h2,h3,h4,h5,h6,p 
+{
+    text-align: left;color: blue ;font-size: x-large;
+    text-decoration: double;
+    background-image: url(file:///C:/Users/ALI%20ASGHAR/Downloads/masjid-al-haram.webp); 
+ }
+table
+{
+align-items: center; 
+}
+
+table,th,td
+{
+    border: 3px solid grey;
+    background-color: greenyellow; 
+ background-image: url(file:///C:/Users/ALI%20ASGHAR/Downloads/masjid-al-haram.webp); 
+ }
+thead,tbody
+{
+
+text-align-last: center;
+} */
